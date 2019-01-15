@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "imie $1"
+echo "nazwisko $2"
+
